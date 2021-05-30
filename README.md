@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JosePaine
 - 👀 I’m interested in Drawing and Coding 
-- 🌱 I’m currently learning French 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 JosePaine/JosePaine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
